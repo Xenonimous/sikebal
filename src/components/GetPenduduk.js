@@ -9,10 +9,7 @@ export default class GetPenduduk extends Component {
     }
 
     async componentDidMount() {
-        await axios.get( url, {headers: {"Access-Control-Allow-Origin": "*"}}, {proxy: {
-            host: 'http://203.123.60.123/',
-            port: 54463
-          }},
+        await axios.get( 'https://cors-anywhere.herokuapp.com/' + url
         )
             .then( response => {
                 this.setState({ temporary: response.data.data[13].penduduk_jumlah_penduduk })
