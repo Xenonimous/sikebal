@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sikebal/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/sikebal/static/js/main.386c1edb.chunk.js",
+    "main.js.map": "/sikebal/static/js/main.386c1edb.chunk.js.map",
+    "runtime-main.js": "/sikebal/static/js/runtime-main.ff0385e9.js",
+    "runtime-main.js.map": "/sikebal/static/js/runtime-main.ff0385e9.js.map",
+    "static/js/2.9d6bdaac.chunk.js": "/sikebal/static/js/2.9d6bdaac.chunk.js",
+    "static/js/2.9d6bdaac.chunk.js.map": "/sikebal/static/js/2.9d6bdaac.chunk.js.map",
+    "static/js/3.291dfafa.chunk.js": "/sikebal/static/js/3.291dfafa.chunk.js",
+    "static/js/3.291dfafa.chunk.js.map": "/sikebal/static/js/3.291dfafa.chunk.js.map",
+    "index.html": "/sikebal/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/sikebal/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.9d6bdaac.chunk.js.LICENSE.txt": "/sikebal/static/js/2.9d6bdaac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff0385e9.js",
+    "static/js/2.9d6bdaac.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.386c1edb.chunk.js"
+  ]
+}
