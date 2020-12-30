@@ -9,7 +9,7 @@ export default class GetPenduduk extends Component {
     }
 
     async componentDidMount() {
-        await axios.get( url, {headers: {"Access-Control-Allow-Origin": "*"}},
+        await axios.get( url, {header: {"Access-Control-Allow-Origin": "*"}},
         )
             .then( response => {
                 this.setState({ temporary: response.data.data[13].penduduk_jumlah_penduduk })
