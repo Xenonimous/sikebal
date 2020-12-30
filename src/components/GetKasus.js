@@ -19,7 +19,6 @@ export default class GetKasus extends Component {
     render() {
         return (
             <div>
-                <h1>Jumlah Kasus Terkonfirmasi</h1>
                 <p id='demo'>{this.state.temporary}</p>
             </div>
         )
