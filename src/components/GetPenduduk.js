@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import axios from 'axios';
 
-var url = 'https://cors-anywhere.herokuapp.com/https://www.bps.go.id/indikator/indikator/download_json/1800/api_pub/50/da_03/1',
+var url = 'https://cors-proxy.htmldriven.com/?url=https://www.bps.go.id/indikator/indikator/download_json/1800/api_pub/50/da_03/1',
 export default class GetPenduduk extends Component {
 
     state = {
